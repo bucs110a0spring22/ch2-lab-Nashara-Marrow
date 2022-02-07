@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ My program can tell the cost per week, classes per week, the cost per class, and it also tell 5 names from the office cast. I can randomly pick a name from the 5 if wanted. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0 
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.tutorialspoint.com/python/python_lists.htm
+ TA : Liz 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Very cool project !
